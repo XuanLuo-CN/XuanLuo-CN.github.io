@@ -24,7 +24,7 @@ author:
   name             : "Xuan Luo"
   avatar           : "images/android-chrome-512x512.png"
   bio              : "Sun Yat-sen University"
-  location         : "Shenzhen, China"
+  # location         : "Shenzhen, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
