@@ -21,7 +21,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 # Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">working paper</div><img src='images/CNN-SNS.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Working Paper</div><img src='images/CNN-SNS.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [A CNN-based particle tracking method for Lagrangian-Eulerian approach toward large-scale fluid simulation](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
