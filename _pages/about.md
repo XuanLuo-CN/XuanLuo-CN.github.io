@@ -21,6 +21,7 @@ redirect_from:
 
 # Introduction
 I'm a research assistence advised by [Prof. Qinghe Yao](https://scholar.google.com/citations?hl=en&user=5WyhkSMAAAAJ) in the Sun Yat-sen University. My research focus on the development of large-scale numerical simulation solvers for fluid mechanics on high-performance computing platforms, based on neural networks, Lagrangian-Eulerian approach and domain decomposition method.
+I am a research assistant under the supervision of [Prof. Qinghe Yao](https://scholar.google.com/citations?hl=en&user=5WyhkSMAAAAJ) at Sun Yat-sen University. My research focuses on developing large-scale numerical simulation solvers for fluid mechanics, utilizing high-performance computing platforms. My work incorporates the Lagrangian-Eulerian approach, the domain decomposition methods, and neural networks to advance computational fluid dynamics.
 # Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Working Paper</div><img src='images/CNN-SNS.jpg' alt="sym" width="100%"></div></div>
