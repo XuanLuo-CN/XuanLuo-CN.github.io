@@ -20,7 +20,6 @@ redirect_from:
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 # Introduction
-I'm a research assistence advised by [Prof. Qinghe Yao](https://scholar.google.com/citations?hl=en&user=5WyhkSMAAAAJ) in the Sun Yat-sen University. My research focus on the development of large-scale numerical simulation solvers for fluid mechanics on high-performance computing platforms, based on neural networks, Lagrangian-Eulerian approach and domain decomposition method.
 I am a research assistant under the supervision of [Prof. Qinghe Yao](https://scholar.google.com/citations?hl=en&user=5WyhkSMAAAAJ) at Sun Yat-sen University. My research focuses on developing large-scale numerical simulation solvers for fluid mechanics, utilizing high-performance computing platforms. My work incorporates the Lagrangian-Eulerian approach, the domain decomposition methods, and neural networks to advance computational fluid dynamics.
 # Publications 
 
