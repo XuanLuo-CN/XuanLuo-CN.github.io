@@ -46,8 +46,18 @@ I am a research assistant under the supervision of [Prof. Qinghe Yao](https://sc
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div>
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
+[Vortex structure analysis of vortex ring collision process based on direct numerical simulation.](https://lxxb.cstam.org.cn/en/article/id/6b6d50b1-44d3-4358-8b32-43629a379caf)
+
+Bohua Huang, Zichao Jiang, Zhuolin Wang, **Xuan Luo**, Yi Zhang, Qinghe Yao, Gengchao Yang
+
+[**Project**](https://xuanluo-cn.github.io/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Working Paper</div><img src='images/merge.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 # 🎖 Experience
 - [May 2023 - Present]  **Research Assistant** in the School of Integrated Circuits, Sun Yat-sen University
   
