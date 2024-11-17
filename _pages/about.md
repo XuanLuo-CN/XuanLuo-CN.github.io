@@ -26,11 +26,11 @@ I am a research assistant under the supervision of [Prof. Qinghe Yao](https://sc
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Working Paper</div><img src='images/CNN-SNS.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[A CNN-based particle tracking method for Lagrangian-Eulerian approach toward large-scale fluid simulation](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[A CNN-based particle tracking method for Lagrangian-Eulerian approach toward large-scale fluid simulation](https://xuanluo-cn.github.io/)
 
 **Xuan Luo**, Zichao Jiang, Zhuolin Wang, Bohua Huang, Yi Zhang, *Qinghe Yao
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Project**](https://xuanluo-cn.github.io/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div>
@@ -38,11 +38,11 @@ I am a research assistant under the supervision of [Prof. Qinghe Yao](https://sc
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Working Paper</div><img src='images/merge.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[An adaptive multi-meshes particle tracking method for Lagrangian-Eulerian approach toward large-scale fluid simulation](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[An adaptive multi-meshes particle tracking method for Lagrangian-Eulerian approach toward large-scale fluid simulation](https://xuanluo-cn.github.io/)
 
 **Xuan Luo**, Zichao Jiang, Zhuolin Wang, Bohua Huang, Yi Zhang, *Qinghe Yao
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Project**](https://xuanluo-cn.github.io/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div>
