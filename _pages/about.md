@@ -49,11 +49,9 @@ I am a research assistant under the supervision of [Prof. Qinghe Yao](https://sc
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Experience
-- School of Integrated Circuits, Sun Yat-sen University					        May 2023 - Present
-  Research Assistant
-- School of Aeronautics and Astronautics, Sun Yat-sen University			      Dec 2021- May 2023
-  Undergraduate Researcher
+- [May 2023 - Present]  **Research Assistant** in the School of Integrated Circuits, Sun Yat-sen University
+  
+- [Dec 2021- May 2023]  **Undergraduate Researcher** in the School of Aeronautics and Astronautics, Sun Yat-sen University			      
+  
 
-- Guangzhou Desay SV Intelligent Transportation Technology Co., Ltd		      Aug 2022- Sep 2022
-  Internship
-
+- [Aug 2022- Sep 2022]  **Internship** in Guangzhou Desay SV Intelligent Transportation Technology Co., Ltd		      
