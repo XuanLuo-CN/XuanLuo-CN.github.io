@@ -23,10 +23,10 @@ redirect_from:
 I am a research assistant under the supervision of [Prof. Qinghe Yao](https://scholar.google.com/citations?hl=en&user=5WyhkSMAAAAJ) at Sun Yat-sen University. My research focuses on developing large-scale numerical simulation solvers for fluid mechanics, utilizing high-performance computing platforms. My work incorporates the Lagrangian-Eulerian approach, the domain decomposition methods, and neural networks to advance computational fluid dynamics.
 # Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Working Paper</div><img src='images/CNN-SNS.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/CNN-SNS.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[A CNN-based particle tracking method for Lagrangian-Eulerian approach toward large-scale fluid simulation](https://xuanluo-cn.github.io/)
+[A CNN-based particle tracking method for Lagrangian-Eulerian approach toward large-scale fluid simulation](https://github.com/XuanLuo-CN/CNN-SNS)
 
 **Xuan Luo**, Zichao Jiang, Zhuolin Wang, Bohua Huang, Yi Zhang, *Qinghe Yao
 
@@ -35,7 +35,7 @@ I am a research assistant under the supervision of [Prof. Qinghe Yao](https://sc
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Working Paper</div><img src='images/merge.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/merge.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [An adaptive multi-meshes particle tracking method for Lagrangian-Eulerian approach toward large-scale fluid simulation](https://xuanluo-cn.github.io/)
@@ -47,7 +47,10 @@ I am a research assistant under the supervision of [Prof. Qinghe Yao](https://sc
 </div>
 </div>
 
-[Vortex structure analysis of vortex ring collision process based on direct numerical simulation.](https://lxxb.cstam.org.cn/en/article/id/6b6d50b1-44d3-4358-8b32-43629a379caf)
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Published</div><img src='images/merge.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Vortex structure analysis of vortex ring collision process based on direct numerical simulation. (Chinese version)](https://lxxb.cstam.org.cn/en/article/id/6b6d50b1-44d3-4358-8b32-43629a379caf)
 
 Bohua Huang, Zichao Jiang, Zhuolin Wang, **Xuan Luo**, Yi Zhang, Qinghe Yao, Gengchao Yang
 
@@ -56,8 +59,7 @@ Bohua Huang, Zichao Jiang, Zhuolin Wang, **Xuan Luo**, Yi Zhang, Qinghe Yao, Gen
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Working Paper</div><img src='images/merge.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+
 # 🎖 Experience
 - [May 2023 - Present]  **Research Assistant** in the School of Integrated Circuits, Sun Yat-sen University
   
