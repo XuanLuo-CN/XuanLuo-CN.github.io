@@ -47,7 +47,7 @@ I am a research assistant under the supervision of [Prof. Qinghe Yao](https://sc
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Published</div><img src='images/merge.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Published</div><img src='images/Vortex.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Vortex structure analysis of vortex ring collision process based on direct numerical simulation. (Chinese version)](https://lxxb.cstam.org.cn/en/article/id/6b6d50b1-44d3-4358-8b32-43629a379caf)
