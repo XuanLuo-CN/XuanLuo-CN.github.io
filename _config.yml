@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Xuan Luo"
-description              : "Research Assistant<br>in School of Integrated Circuits, <br>Sun Yat-sen University"
+description              : "Research Assistant<br>in School of Integrated Circuits"
 repository               : "RayeRen/acad-homepage.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -24,7 +24,7 @@ author:
   name             : "Xuan Luo"
   avatar           : "images/android-chrome-512x512.png"
   # bio              : "Sun Yat-sen University"
-  # location         : "School of Integrated Circuits"
+  location         : "Sun Yat-sen University"
   employer         :
   pubmed           : 
   # googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
