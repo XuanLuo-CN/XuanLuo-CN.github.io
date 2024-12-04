@@ -28,7 +28,7 @@ I am a research assistant under the supervision of [Prof. Qinghe Yao](https://sc
 
 [A CNN-based particle tracking method for Lagrangian-Eulerian approach toward large-scale fluid simulation](https://github.com/XuanLuo-CN/CNN-SNS)
 
-<span style="font-size:13px;">_**Xuan Luo**, Zichao Jiang, Zhuolin Wang, Bohua Huang, Yi Zhang, *Qinghe Yao_
+<span style="font-size:14px;">_**Xuan Luo**, Zichao Jiang, Zhuolin Wang, Bohua Huang, Yi Zhang, *Qinghe Yao_
 
 <span style="margin-right: 100px;"></span>[**PROJECT**](https://xuanluo-cn.github.io/) <span style="margin-right: 200px;"></span> [**README**](https://xuanluo-cn.github.io/) 
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -40,7 +40,7 @@ I am a research assistant under the supervision of [Prof. Qinghe Yao](https://sc
 
 [An adaptive multi-meshes particle tracking method for Lagrangian-Eulerian approach toward large-scale fluid simulation](https://xuanluo-cn.github.io/)
 
-<span style="font-size:13px;">_**Xuan Luo**, Zichao Jiang, Zhuolin Wang, Bohua Huang, Yi Zhang, *Qinghe Yao_
+<span style="font-size:14px;">_**Xuan Luo**, Zichao Jiang, Zhuolin Wang, Bohua Huang, Yi Zhang, *Qinghe Yao_
 
 <span style="margin-right: 100px;"></span> [**PROJECT**](https://xuanluo-cn.github.io/) <span style="margin-right: 200px;"></span> [**README**](https://xuanluo-cn.github.io/) 
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -52,7 +52,7 @@ I am a research assistant under the supervision of [Prof. Qinghe Yao](https://sc
 
 [Vortex structure analysis of vortex ring collision process based on direct numerical simulation (Chinese version)](https://lxxb.cstam.org.cn/en/article/id/6b6d50b1-44d3-4358-8b32-43629a379caf)
 
-<span style="font-size:13px;">_Bohua Huang, Zichao Jiang, Zhuolin Wang, **Xuan Luo**, Yi Zhang, *Qinghe Yao, Gengchao Yang_
+<span style="font-size:14px;">_Bohua Huang, Zichao Jiang, Zhuolin Wang, **Xuan Luo**, Yi Zhang, *Qinghe Yao, Gengchao Yang_
 
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
