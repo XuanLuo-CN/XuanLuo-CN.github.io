@@ -28,16 +28,9 @@ I am a research assistant under the supervision of [Prof. Qinghe Yao](https://sc
 
 [A CNN-based particle tracking method for Lagrangian-Eulerian approach toward large-scale fluid simulation](https://github.com/XuanLuo-CN/CNN-SNS)
 
-<span style="font-size:12px;">_**Xuan Luo**, Zichao Jiang, Zhuolin Wang, Bohua Huang, Yi Zhang, *Qinghe Yao_
+<span style="font-size:15px;">_**Xuan Luo**, Zichao Jiang, Zhuolin Wang, Bohua Huang, Yi Zhang, *Qinghe Yao_
 
-<div style="display: inline-block; margin-right: 20px;">
-  [**Project**](https://xuanluo-cn.github.io/)
-</div>
-<div style="display: inline-block;">
-  [**README**](https://xuanluo-cn.github.io/)
-</div>
-
-[**PROJECT**](https://xuanluo-cn.github.io/) [**README**](https://xuanluo-cn.github.io/) 
+[**PROJECT**](https://xuanluo-cn.github.io/) <span style="margin-right: 20px;"></span> [**README**](https://xuanluo-cn.github.io/) 
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div>
@@ -47,9 +40,9 @@ I am a research assistant under the supervision of [Prof. Qinghe Yao](https://sc
 
 [An adaptive multi-meshes particle tracking method for Lagrangian-Eulerian approach toward large-scale fluid simulation](https://xuanluo-cn.github.io/)
 
-<span style="font-size:12px;">_**Xuan Luo**, Zichao Jiang, Zhuolin Wang, Bohua Huang, Yi Zhang, *Qinghe Yao_
+<span style="font-size:15px;">_**Xuan Luo**, Zichao Jiang, Zhuolin Wang, Bohua Huang, Yi Zhang, *Qinghe Yao_
 
-[**Project**](https://xuanluo-cn.github.io/) [**README**](https://xuanluo-cn.github.io/) 
+[**Project**](https://xuanluo-cn.github.io/) <span style="margin-right: 20px;"></span> [**README**](https://xuanluo-cn.github.io/) 
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div>
@@ -59,9 +52,8 @@ I am a research assistant under the supervision of [Prof. Qinghe Yao](https://sc
 
 [Vortex structure analysis of vortex ring collision process based on direct numerical simulation (Chinese version)](https://lxxb.cstam.org.cn/en/article/id/6b6d50b1-44d3-4358-8b32-43629a379caf)
 
-<span style="font-size:12px;">_Bohua Huang, Zichao Jiang, Zhuolin Wang, **Xuan Luo**, Yi Zhang, *Qinghe Yao, Gengchao Yang_
+<span style="font-size:15px;">_Bohua Huang, Zichao Jiang, Zhuolin Wang, **Xuan Luo**, Yi Zhang, *Qinghe Yao, Gengchao Yang_
 
-[**Project**](https://xuanluo-cn.github.io/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div>
