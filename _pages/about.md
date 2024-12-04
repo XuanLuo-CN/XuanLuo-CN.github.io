@@ -30,7 +30,7 @@ I am a research assistant under the supervision of [Prof. Qinghe Yao](https://sc
 
 <span style="font-size:13px;">_**Xuan Luo**, Zichao Jiang, Zhuolin Wang, Bohua Huang, Yi Zhang, *Qinghe Yao_
 
-<span style="margin-right: 50px;"></span>[**PROJECT**](https://xuanluo-cn.github.io/) <span style="margin-right: 200px;"></span> [**README**](https://xuanluo-cn.github.io/) 
+<span style="margin-right: 100px;"></span>[**PROJECT**](https://xuanluo-cn.github.io/) <span style="margin-right: 200px;"></span> [**README**](https://xuanluo-cn.github.io/) 
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div>
@@ -42,7 +42,7 @@ I am a research assistant under the supervision of [Prof. Qinghe Yao](https://sc
 
 <span style="font-size:13px;">_**Xuan Luo**, Zichao Jiang, Zhuolin Wang, Bohua Huang, Yi Zhang, *Qinghe Yao_
 
-<span style="margin-right: 50px;"></span> [**Project**](https://xuanluo-cn.github.io/) <span style="margin-right: 200px;"></span> [**README**](https://xuanluo-cn.github.io/) 
+<span style="margin-right: 100px;"></span> [**Project**](https://xuanluo-cn.github.io/) <span style="margin-right: 200px;"></span> [**README**](https://xuanluo-cn.github.io/) 
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div>
