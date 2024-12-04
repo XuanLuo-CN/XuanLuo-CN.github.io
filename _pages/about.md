@@ -30,7 +30,14 @@ I am a research assistant under the supervision of [Prof. Qinghe Yao](https://sc
 
 <span style="font-size:12px;">_**Xuan Luo**, Zichao Jiang, Zhuolin Wang, Bohua Huang, Yi Zhang, *Qinghe Yao_
 
-[**Project**](https://xuanluo-cn.github.io/) [**README**](https://xuanluo-cn.github.io/) 
+<div style="display: inline-block; margin-right: 20px;">
+  [**Project**](https://xuanluo-cn.github.io/)
+</div>
+<div style="display: inline-block;">
+  [**README**](https://xuanluo-cn.github.io/)
+</div>
+
+[**PROJECT**](https://xuanluo-cn.github.io/) [**README**](https://xuanluo-cn.github.io/) 
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div>
