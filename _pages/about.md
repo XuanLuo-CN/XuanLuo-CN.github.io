@@ -28,7 +28,7 @@ I am a research assistant under the supervision of [Prof. Qinghe Yao](https://sc
 
 [A CNN-based particle tracking method for Lagrangian-Eulerian approach toward large-scale fluid simulation](https://github.com/XuanLuo-CN/CNN-SNS)
 
-<span style="font-size:12px;">**Xuan Luo**, Zichao Jiang, Zhuolin Wang, Bohua Huang, Yi Zhang, *Qinghe Yao
+<span style="font-size:12px;">_**Xuan Luo**, Zichao Jiang, Zhuolin Wang, Bohua Huang, Yi Zhang, *Qinghe Yao_
 
 [**Project**](https://xuanluo-cn.github.io/) [**README**](https://xuanluo-cn.github.io/) 
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -50,9 +50,9 @@ I am a research assistant under the supervision of [Prof. Qinghe Yao](https://sc
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Published</div><img src='images/Vortex.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Vortex structure analysis of vortex ring collision process based on direct numerical simulation. (Chinese version)](https://lxxb.cstam.org.cn/en/article/id/6b6d50b1-44d3-4358-8b32-43629a379caf)
+[Vortex structure analysis of vortex ring collision process based on direct numerical simulation (Chinese version)](https://lxxb.cstam.org.cn/en/article/id/6b6d50b1-44d3-4358-8b32-43629a379caf)
 
-<span style="font-size:12px;">Bohua Huang, Zichao Jiang, Zhuolin Wang, **Xuan Luo**, Yi Zhang, Qinghe Yao, Gengchao Yang
+<span style="font-size:12px;">_Bohua Huang, Zichao Jiang, Zhuolin Wang, **Xuan Luo**, Yi Zhang, *Qinghe Yao, Gengchao Yang_
 
 [**Project**](https://xuanluo-cn.github.io/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
