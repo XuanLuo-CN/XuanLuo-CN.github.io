@@ -35,10 +35,10 @@ I am a research assistant under the supervision of [Prof. Qinghe Yao](https://sc
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/merge.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Working Paper</div><img src='images/merge.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[An adaptive multi-meshes particle tracking method for Lagrangian-Eulerian approach toward large-scale fluid simulation](https://xuanluo-cn.github.io/)
+[An adaptive multi-meshes particle tracking method for Lagrangian-Eulerian approach toward large-scale fluid simulation](https://github.com/XuanLuo-CN/AMS/blob/main/Manuscript.pdf)
 
 
 <span style="font-size:14px;">_**Xuan Luo**, Zichao Jiang, Zhuolin Wang, Bohua Huang, Yi Zhang, *Qinghe Yao_</span>
