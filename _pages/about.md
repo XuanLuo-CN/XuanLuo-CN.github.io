@@ -55,7 +55,7 @@ I am a research assistant under the supervision of [Prof. Qinghe Yao](https://sc
 
 <span style="font-size:14px;">_Bohua Huang, Zichao Jiang, Zhuolin Wang, **Xuan Luo**, Yi Zhang, *Qinghe Yao, Gengchao Yang_
 
-<span style="margin-right: 100px;"></span>[**PROJECT**](https://gitee.com/vincenthua/vortex_ring) <span style="margin-right: 200px;"></span> [**README**] 
+<span style="margin-right: 100px;"></span>[**PROJECT**](https://gitee.com/vincenthua/vortex_ring) <span style="margin-right: 200px;"></span> **README**
 
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
