@@ -28,7 +28,7 @@ I am a research assistant under the supervision of [Prof. Qinghe Yao](https://sc
 
 [A CNN-based particle tracking method for Lagrangian-Eulerian approach toward large-scale fluid simulation](https://arxiv.org/abs/2412.18379)
 
-<span style="font-size:14px;">_**Xuan Luo**, Zichao Jiang, Yi Zhang, *Qinghe Yao, Zhuolin Wang, Gengchao Yang, Bohua Huang_
+<span style="font-size:14px;">_**Xuan Luo**, Z. Jiang, Yi Zhang, *Qinghe Yao, Z. Wang, Gengchao Yang, B. Huang_
 
 <span style="margin-right: 100px;"></span>[**PROJECT**](https://xuanluo-cn.github.io/) <span style="margin-right: 200px;"></span> [**README**](https://xuanluo-cn.github.io/) 
 - A novel particle tracking method based on a convolutional neural network (CNN) is proposed to improve the efficiency of Lagrangian-Eulerian (L-E) approaches. 
