@@ -31,7 +31,7 @@ I am a research assistant under the supervision of [Prof. Qinghe Yao](https://sc
 <span style="font-size:14px;">_**Xuan Luo**, Z. Jiang, Yi Zhang, *Qinghe Yao, Z. Wang, Gengchao Yang, B. Huang_
 
 <span style="margin-right: 100px;"></span>[**PROJECT**](https://xuanluo-cn.github.io/) <span style="margin-right: 200px;"></span> [**README**](https://xuanluo-cn.github.io/) 
-A novel particle tracking method based on a convolutional neural network (CNN) is proposed to improve the efficiency of Lagrangian-Eulerian (L-E) approaches. 
+- A novel particle tracking method based on a CNN is proposed to improve the efficiency of Lagrangian-Eulerian approaches. 
 </div>
 </div>
 
